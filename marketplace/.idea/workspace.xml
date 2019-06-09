@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29c3084c-133d-42af-9356-889415b636b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/marketplace/database/migrations/2017_11_14_223715_create_uuid_ossp_extension.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketplace/database/seeds/CategoriesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/marketplace/database/seeds/CategoriesTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketplace/database/seeds/ItemsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/marketplace/database/seeds/ItemsTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketplace/database/seeds/StoreItemsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/marketplace/database/seeds/StoreItemsTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketplace/database/seeds/StoresTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/marketplace/database/seeds/StoresTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketplace/database/seeds/UsersTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/marketplace/database/seeds/UsersTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketplace_admin/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/marketplace_admin/config/prod.env.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/marketplace/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marketplace/database/migrations/2017_12_21_225927_create_password_resets_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marketplace/database/migrations/2018_07_04_210643_add_trigger_order_items_total.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/Dashboard.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/HelloWorld.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-446" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/auth/Login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-371" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/category/Search.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-504" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/category/Tree.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marketplace_admin/src/store/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marketplace_admin/src/store/modules/address.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marketplace/database/migrations/2017_11_14_225312_create_stores_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/marketplace_admin" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/marketplace/.env" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/queue" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/config" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/http" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/mikemccabe/json-patch-php" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/cache" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/validation" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/translation" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/broadcasting" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/hashing" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/session" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/log" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/encryption" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/redis" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/auth" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/mail" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/pagination" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/gabrielfs7/brasil-utils" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/ralouphie/mimey" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/rackspace/php-opencloud" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/particle/validator" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/pagarme/pagarme-php" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/laravel/lumen-framework" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/guzzle/guzzle" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/league/flysystem-rackspace" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/marketplace/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="seeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace_admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="category" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="federal-receive-document" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="462c0819:PsiDirectoryNode" />
+              <item name="marketplace_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29c3084c-133d-42af-9356-889415b636b2" name="Default Changelist" comment="" />
+      <created>1560035734255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560035734255</updated>
+      <workItem from="1560035735500" duration="1245000" />
+      <workItem from="1560089720084" duration="537000" />
+      <workItem from="1560090898080" duration="1165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2947000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24076433" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace/database/migrations/2017_11_14_223715_create_uuid_ossp_extension.php" />
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace/database/migrations/2017_11_14_225311_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace/database/migrations/2017_11_15_100334_create_items_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace/database/migrations/2017_12_21_225927_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace/database/migrations/2017_11_14_225312_create_stores_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace/database/migrations/2018_07_04_210643_add_trigger_order_items_total.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/Dashboard.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-446" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/src/store/modules/address.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/auth/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/category/Search.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketplace_admin/src/components/category/Tree.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const CHANGE_MESSAGE = 'CHANGE_MESSAGE';
